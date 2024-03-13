@@ -1,8 +1,3 @@
-## There are two ways of testing for security vulnerabilities
-
-- Static Application Security Testing
-- Dynamic Application Security Testing
-
 ## DAST is used for testing running applications
 
 Processes associated with DAST:
