@@ -1,6 +1,5 @@
 ## SAST and DAST Differences:
 
-<<<<<<< HEAD
 | DAST                                                            | IAST                                                           | SAST                                                                                   |
 | --------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | performed after application deployment                          | performed after application deployment                         | performed before application deployment                                                |
@@ -10,7 +9,8 @@
 | higher number of false negatives                                | -                                                              | lower number of false negatives                                                        |
 | covers front-end, configuration and an environment              | -                                                              | front-end, configuration and environment are not in the scope of SAST                  |
 | identifies security issues visible from end-user point of view  | -                                                              | detects any weakness - no matter if it is relevant from the end user perspective       |
-=======
+
+
 | DAST | SAST         |
 |-----------------------------------------------|----------------------------|
 |performed after application deployment | performed before application deployment|
@@ -20,13 +20,10 @@
 |higher number of false negatives |lower number of false negatives|
 |covers front-end, configuration and an environment |front-end, configuration and environment are not in the scope of SAST|
 |identifies security issues visible from end-user point of view |detects any weakness - no matter if it is relevant from the end user perspective|
->>>>>>> 3d937e7ff3825d708d268402c2ddd95e841292f1
 
 
 *It's important to note that both SAST and DAST compliment each other, it's best utilize both approaches.*
 
-<<<<<<< HEAD
+
 <a href="https://github.com/andrzej-kotynski/andrzej-kotynski/blob/main/README.md">Back to portfolio page</a>
-=======
-<a href="https://github.com/andrzej-kotynski/andrzej-kotynski/blob/main/README.md">Back to portfolio page</a>
->>>>>>> 3d937e7ff3825d708d268402c2ddd95e841292f1
+
