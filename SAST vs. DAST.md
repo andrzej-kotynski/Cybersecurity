@@ -12,3 +12,5 @@
 
 
 *It's important to note that both SAST and DAST compliment each other, it's best utilize both approaches.*
+
+<a href="https://github.com/andrzej-kotynski/andrzej-kotynski/blob/main/README.md">Back to portfolio page</a>
